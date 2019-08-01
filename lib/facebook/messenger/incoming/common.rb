@@ -30,7 +30,7 @@ module Facebook
         end
 
         #
-        # Function return the page of id from which the message is arrived.
+        # Function return the page id from which the message has arrived.
         #
         # @return [String] Facebook page id.
         #
@@ -53,7 +53,6 @@ module Facebook
 
         #
         # Function return timestamp when message is sent.
-        #
         #
         # @return [Object] Message time sent.
         #
